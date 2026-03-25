@@ -64,7 +64,7 @@ Make sure you have these installed:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/OsaMa/Dealer-Vehicle-Inventory-Module.git
+git clone https://github.com/OsamaAli12353/Dealer-Vehicle-Inventory-Module.git
 cd Dealer-Vehicle-Inventory-Module
 ```
 
