@@ -13,7 +13,7 @@
     </parent>
 
     <groupId>dealer</groupId>
-    <artifactId>task3</artifactId>
+    <artifactId>task</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Task3</name>
     <description>Multi-tenant Dealer &amp; Vehicle Inventory Module</description>
